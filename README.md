@@ -9,7 +9,7 @@ npm install
 npm run dev
 ```
 
-Open https://flyhigherr.netlify.app/
+Open https://flyhigherr.netlify.app
 
 ## 📁 Project Structure
 
