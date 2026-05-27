@@ -9,7 +9,7 @@ npm install
 npm run dev
 ```
 
-Open [[http://localhost:3000](http://localhost:3000)](https://flyhigherr.netlify.app/)
+Open https://flyhigherr.netlify.app/
 
 ## 📁 Project Structure
 
