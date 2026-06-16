@@ -7,7 +7,7 @@ A Next.js 14 travel agency web app for booking trains, flights, and buses across
 ```bash
 npm install
 npm run dev
-``` 
+```  
 
 Open https://flyhigherr.netlify.app
 
