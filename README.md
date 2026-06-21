@@ -77,4 +77,4 @@ travel-agency/
 
 ## 🔑 Environment
 
-Copy `.env.example` to `.env.local` — no keys required for the mock data version.
+
