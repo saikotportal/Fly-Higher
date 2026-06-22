@@ -27,7 +27,7 @@ travel-agency/
 │   │   ├── flights/page.jsx        # Flight search
 │   │   └── buses/page.jsx          # Bus search
 │   └── booking/[id]/page.jsx       # Booking flow (3-step)
-├── components/
+├── components/ 
 │   ├── layout/
 │   │   ├── Navbar.jsx
 │   │   ├── Footer.jsx
