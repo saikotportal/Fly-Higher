@@ -12,7 +12,7 @@ npm run dev
 Open 
 
 ## 📁 Project Structure
-
+ 
 ```
 travel-agency/
 ├── app/
