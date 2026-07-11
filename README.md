@@ -14,7 +14,7 @@ Open
 ## 📁 Project Structure
  
 ```
-travel-agency/
+Flu-Figher/
 ├── app/
 │   ├── page.jsx                    # Home page
 │   ├── layout.jsx                  # Root layout
