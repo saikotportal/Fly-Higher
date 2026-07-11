@@ -73,7 +73,7 @@ Fly-Figher/
 - Next.js 14 (App Router)
 - Tailwind CSS
 - Lucide React (icons)
-- localStorage for auth & bookings (no backend required)
+- auth & bookings
 
 ## 🔑 Environment
 
