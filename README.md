@@ -14,7 +14,7 @@ Open
 ## 📁 Project Structure
  
 ```
-Flu-Figher/
+Fly-Figher/
 ├── app/
 │   ├── page.jsx                    # Home page
 │   ├── layout.jsx                  # Root layout
